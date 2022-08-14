@@ -37,7 +37,7 @@ to do it using mouse position [x,y], so that its posible to make the eyes go cro
 
 
 ## Acknowledgements
-- This project was inspired by Week 8 of the M.I.T Fullstack Developer Bootcamp
+This project was inspired by Week 8 of the M.I.T Fullstack Developer Bootcamp
 
 
 ## Contact
